@@ -1,26 +1,4 @@
 {
-  "global": {
-    "base": {
-      "value": "#484895",
-      "type": "color"
-    },
-    "border-base": {
-      "value": {
-        "color": "{base}",
-        "width": "2px",
-        "style": "solid"
-      },
-      "type": "border"
-    }
-  },
-  "$metadata": {
-    "tokenSetOrder": {
-      "0": {
-        "value": "global",
-        "type": "other"
-      }
-    }
-  },
   "fontFamilies": {
     "inter": {
       "value": "Inter",
