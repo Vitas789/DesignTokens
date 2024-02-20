@@ -1,1 +1,22 @@
-{}
+{
+  "Test": {
+    "base": {
+      "value": "#942222",
+      "type": "color"
+    },
+    "border-base": {
+      "value": {
+        "color": "{base}",
+        "width": "2px",
+        "style": "solid"
+      },
+      "type": "border"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "Test"
+    ]
+  }
+}
