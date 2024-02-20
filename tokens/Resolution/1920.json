@@ -1,0 +1,64 @@
+{
+  "Card": {
+    "margin": {
+      "value": "80",
+      "type": "number",
+      "parent": "Resolution/1920",
+      "description": ""
+    },
+    "padding-left-right": {
+      "value": "[object Object]",
+      "type": "number",
+      "parent": "Resolution/1920",
+      "description": ""
+    },
+    "padding-top-bottom": {
+      "value": "[object Object]",
+      "type": "number",
+      "parent": "Resolution/1920",
+      "description": ""
+    },
+    "padding-img": {
+      "value": "20",
+      "type": "number",
+      "parent": "Resolution/1920",
+      "description": ""
+    },
+    "corner-radius": {
+      "value": "8",
+      "type": "number",
+      "parent": "Resolution/1920",
+      "description": ""
+    }
+  },
+  "Button": {
+    "Primary": {
+      "height": {
+        "value": "48",
+        "type": "number",
+        "parent": "Resolution/1920",
+        "description": ""
+      },
+      "padding": {
+        "value": "[object Object]",
+        "type": "number",
+        "parent": "Resolution/1920",
+        "description": ""
+      }
+    }
+  },
+  "Sizing": {
+    "size-20": {
+      "value": "20",
+      "type": "number",
+      "parent": "Resolution/1920",
+      "description": ""
+    },
+    "size-30": {
+      "value": "30",
+      "type": "number",
+      "parent": "Resolution/1920",
+      "description": ""
+    }
+  }
+}

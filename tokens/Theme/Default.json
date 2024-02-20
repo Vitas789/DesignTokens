@@ -1,0 +1,48 @@
+{
+  "Button": {
+    "Primary": {
+      "color": {
+        "value": "#3e2efc",
+        "type": "color",
+        "parent": "Theme/Default",
+        "description": ""
+      }
+    }
+  },
+  "Card": {
+    "card-heading-color": {
+      "value": "#ffffff",
+      "type": "color",
+      "parent": "Theme/Default",
+      "description": ""
+    },
+    "card-bg-color": {
+      "value": "#000000",
+      "type": "color",
+      "parent": "Theme/Default",
+      "description": ""
+    },
+    "card-border-color": {
+      "value": "#ffffff00",
+      "type": "color",
+      "parent": "Theme/Default",
+      "description": ""
+    }
+  },
+  "Background": {
+    "background": {
+      "value": "#ffffff",
+      "type": "color",
+      "parent": "Theme/Default",
+      "description": ""
+    }
+  },
+  "Text": {
+    "on-color": {
+      "value": "#ffffff",
+      "type": "color",
+      "parent": "Theme/Default",
+      "description": ""
+    }
+  }
+}
