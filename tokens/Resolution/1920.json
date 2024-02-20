@@ -7,16 +7,14 @@
       "description": ""
     },
     "padding-left-right": {
-      "value": "[object Object]",
+      "value": "{Sizing.size-20}",
       "type": "number",
-      "parent": "Resolution/1920",
-      "description": ""
+      "parent": "Resolution/1920"
     },
     "padding-top-bottom": {
-      "value": "[object Object]",
+      "value": "{Sizing.size-20}",
       "type": "number",
-      "parent": "Resolution/1920",
-      "description": ""
+      "parent": "Resolution/1920"
     },
     "padding-img": {
       "value": "20",
@@ -40,10 +38,9 @@
         "description": ""
       },
       "padding": {
-        "value": "[object Object]",
+        "value": "{Sizing.size-30}",
         "type": "number",
-        "parent": "Resolution/1920",
-        "description": ""
+        "parent": "Resolution/1920"
       }
     }
   },
