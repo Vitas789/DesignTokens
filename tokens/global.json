@@ -1,12 +1,12 @@
 {
-  "Test": {
-    "base": {
-      "value": "#942222",
+  "global": {
+    "global-base": {
+      "value": "#484895",
       "type": "color"
     },
     "border-base": {
       "value": {
-        "color": "{base}",
+        "color": "{global-base}",
         "width": "2px",
         "style": "solid"
       },
@@ -16,7 +16,7 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "Test"
+      "global"
     ]
   }
 }
