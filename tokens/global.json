@@ -1,14 +1,12 @@
 {
   "global": {
-    "global": {
-      "base": {
-        "value": "#484895",
-        "type": "color"
-      }
+    "base": {
+      "value": "#484895",
+      "type": "color"
     },
     "border-base": {
       "value": {
-        "color": "{global.base}",
+        "color": "{base}",
         "width": "2px",
         "style": "solid"
       },
