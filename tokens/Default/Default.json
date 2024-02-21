@@ -1,11 +1,11 @@
 {
   "Mode 1": {
     "button-background": {
-      "value": "#242aa8",
+      "value": "#47c827",
       "type": "color",
       "parent": "Default/Default",
       "description": "",
-      "oldValue": "#23cc34"
+      "oldValue": "#242aa8"
     },
     "button-text": {
       "value": "#ffffff",
