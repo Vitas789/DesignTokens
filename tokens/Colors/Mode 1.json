@@ -1,0 +1,20 @@
+{
+  "button-background": {
+    "value": "#3b2aff",
+    "type": "color",
+    "parent": "Colors/Mode 1",
+    "description": ""
+  },
+  "button-text": {
+    "value": "#ffffff",
+    "type": "color",
+    "parent": "Colors/Mode 1",
+    "description": ""
+  },
+  "background": {
+    "value": "#a9faff",
+    "type": "color",
+    "parent": "Colors/Mode 1",
+    "description": ""
+  }
+}
