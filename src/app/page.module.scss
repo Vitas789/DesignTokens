@@ -1,15 +1,5 @@
 @import "/designTokens/build/scss/variables";
 
-.button {
-  width: 200px;
-  height: 200px;
-  background-color: $button-background;
-}
-
-.main {
-  // background-color: $theme-default-background;
-}
-
 .card {
   display: flex;
   position: relative;
@@ -29,7 +19,7 @@
   button {
     width: 150px;
     padding: 16px 30px;
-    background-color: $button-background;
+    background-color: $mode-1-button-background;
     border: 0;
     color: white;
   }
