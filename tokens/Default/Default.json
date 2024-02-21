@@ -1,0 +1,22 @@
+{
+  "Mode 1": {
+    "button-background": {
+      "value": "#14b237",
+      "type": "color",
+      "parent": "Default/Default",
+      "description": ""
+    },
+    "button-text": {
+      "value": "#ffffff",
+      "type": "color",
+      "parent": "Default/Default",
+      "description": ""
+    },
+    "background": {
+      "value": "#ffffff",
+      "type": "color",
+      "parent": "Default/Default",
+      "description": ""
+    }
+  }
+}
